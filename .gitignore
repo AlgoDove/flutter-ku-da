@@ -1,0 +1,22 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build Artifacts & Binaries (Release APK is distributed via GitHub Releases)
+*.apk
+*.aab
+build/
+.dart_tool/
+
+# Logs and Environment Files
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
